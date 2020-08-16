@@ -14,6 +14,6 @@ class Customer
   end
 
   def meals
-    Meal.self.all
+    self.Meal.all
   end
 end
