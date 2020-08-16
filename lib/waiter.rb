@@ -3,6 +3,6 @@ class Waiter
   def initialize(name, age)
   end
 
-  def self.all 
+  def self.all
   end
 end
